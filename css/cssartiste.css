@@ -1,0 +1,66 @@
+body
+{
+	background: url("../images/fond.jpg");
+}
+
+h1
+{
+	text-align: center;
+}
+
+#nomartiste
+{
+/*text-align: center;
+background-color: rgba(255, 255, 255, 0.3);
+width: 150px;
+margin-left: 40vh;
+margin-top: 10vh;
+color: rgba(47, 187, 255);*/
+
+}
+
+
+#like
+{		
+	background: url("../images/like.png");
+	/*border:none;*/
+
+}
+
+p
+{
+	color: red;
+}
+
+
+.form-horizontal
+{
+	/*display: flex;
+	margin-top: 50px;*/
+}
+
+
+
+/*menu*/
+
+#menu
+{
+	display: flex;
+	justify-content: space-around;
+	font-size: 18px;
+	margin-top: 20px;
+}
+
+#menu a
+{
+	text-decoration: none;
+	color: black;
+}
+
+
+
+#menu a:hover
+{
+	color: red;
+}
+
